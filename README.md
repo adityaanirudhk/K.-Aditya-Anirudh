@@ -1,4 +1,8 @@
 # K.-Aditya-Anirudh
+
+![Aditya](https://github.com/user-attachments/assets/0b57fe4f-aeae-4632-a926-7344a360d3ae)
+
+
   # 😊ABOUT ME😊
    •Mechanical Engineer, adept at simplifying complex systems.
    •Huge Enthusiast of Robotics and Mechatronics Systems
