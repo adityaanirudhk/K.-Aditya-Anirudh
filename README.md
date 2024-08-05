@@ -10,6 +10,7 @@
 
    # Professional Interests 🤖 
    ![robots-1](https://github.com/user-attachments/assets/6eb40737-18d4-4f47-88a8-b4635dad6ed3)
+   
    •Multibody Robotic and Mechatronic System Design, Modeling and Simulation
    •Thermal Systems, Vibration and Noise Engineering and Finite Element Analysis 
    •Remote Handling Technology
