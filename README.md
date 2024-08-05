@@ -21,5 +21,6 @@
 
 # VIEW MY PROJECTS AT: 
 https://github.com/adityaanirudhk
+
 ![200w](https://github.com/user-attachments/assets/88b3ea44-d982-467a-af3c-35200fe1dbd9)
 
